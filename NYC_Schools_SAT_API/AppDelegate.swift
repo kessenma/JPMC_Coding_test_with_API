@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  NYC_Schools_SAT_API
+//  NYC SCHOOLS + SAT SCORES
 //
 //  Created by Kyle Essenmacher on 7/16/22.
 //

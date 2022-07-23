@@ -10,10 +10,9 @@
 		5625A14128837732001B5F7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5625A14028837732001B5F7F /* AppDelegate.swift */; };
 		5625A14328837732001B5F7F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5625A14228837732001B5F7F /* SceneDelegate.swift */; };
 		5625A14528837732001B5F7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5625A14428837732001B5F7F /* ViewController.swift */; };
-		5625A14828837732001B5F7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5625A14628837732001B5F7F /* Main.storyboard */; };
 		5625A14A28837734001B5F7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5625A14928837734001B5F7F /* Assets.xcassets */; };
-		5625A14D28837734001B5F7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5625A14B28837734001B5F7F /* LaunchScreen.storyboard */; };
 		5625A15528837755001B5F7F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5625A15428837755001B5F7F /* Model.swift */; };
+		562A9D0C288BF64D004D099B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5625A14628837732001B5F7F /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -128,9 +127,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5625A14D28837734001B5F7F /* LaunchScreen.storyboard in Resources */,
+				562A9D0C288BF64D004D099B /* Main.storyboard in Resources */,
 				5625A14A28837734001B5F7F /* Assets.xcassets in Resources */,
-				5625A14828837732001B5F7F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

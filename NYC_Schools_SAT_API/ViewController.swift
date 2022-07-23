@@ -1,19 +1,19 @@
 //
 //  ViewController.swift
-//  API_NYC_Schools
-//  data: https://jsonplaceholder.typicode.com/todos
+//  NYC SCHOOLS + SAT SCORES
+//  data: https://data.cityofnewyork.us/resource/f9bf-2cp4.json
 //  Created by Kyle Essenmacher on 7/16/22.
 //
 
 import UIKit
+import SwiftUI
 
 class ViewController: UIViewController {
     
     var data = [ToDo]()
     
-    
-
     @IBOutlet weak var tableView: UITableView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -57,6 +57,9 @@ extension ViewController: UITableViewDataSource {
     }
     
 }
+
+
+
 
 
 
